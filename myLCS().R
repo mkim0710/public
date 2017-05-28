@@ -1,7 +1,7 @@
 
+# mhLCS().R
 
-
-
+### Original code: http://rpubs.com/cardiomoon/280342
 
 allsubstr=function(x){
   res=c()
